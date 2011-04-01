@@ -1,0 +1,14 @@
+
+# package stuff
+build/*
+dist/*
+*.egg-info/*
+
+# misc
+*.pyc
+
+# ply generated stuff
+parser.out
+parsetab.py
+
+
