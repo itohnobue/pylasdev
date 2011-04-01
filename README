@@ -2,7 +2,7 @@
 
 pyLASDev is a small Python package which provides reading and writing of LAS (Log ASCII Standart) 1.2 and 2.0 files. Also it can be used for reading Dev (deviation) files, which are common in geoscience to store deviations and paths (for example, for wells in oil industry).
 
-pyLASDev is written according to LAS 1.2 and 2.0 specifications (can be found here).
+pyLASDev is written according to LAS 1.2 and 2.0 specifications.
 
 2. Requierements
 
