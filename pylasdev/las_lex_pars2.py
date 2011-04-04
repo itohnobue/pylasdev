@@ -28,7 +28,7 @@ tokens = (
 	'SHARP'
 )
 
-t_SYMBOL = r'(?u)[А-Яа-яa-zA-Z0-9\-]'
+t_SYMBOL = r'(?u)[_А-Яа-яa-zA-Z0-9\-]'
 t_DOT = r'\.'
 t_COLON = r':'
 t_WS = r'[\s\t]+'
